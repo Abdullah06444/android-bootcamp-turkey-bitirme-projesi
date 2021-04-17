@@ -7,7 +7,7 @@ Kolay gelsin! :)
 
 # Harcama Takip Uygulaması
 
-Uygulamanın amacı, kullanıcının harcamalarını takip edip, farklı para birimlerini içinde kullanacağı ve kendi ismini uygulama içinde görüntüleyebileceği, bir harcama takibi uygulaması yaratmak. Uygulama içerisinde sizden istediğimiz gereksinimleri alt başlıklarda sıraladık.
+Uygulamanın amacı, kullanıcının harcamalarını takip edip, farklı para birimlerini içinde kullanacağı, kendi ismini ve toplam harcama miktarını uygulama içinde görüntüleyebilemesini sağlamak. Uygulama içerisinde sizden istediğimiz gereksinimleri alt başlıklarda sıraladık.
 
 ## Para Birimi Çevrimlerinin Sağlanabileceği Api
 
