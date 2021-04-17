@@ -69,6 +69,7 @@ Her şey hazır! Uygulamanızı reponuza yükleyip form ile bize ilettiğinizde 
 ## Notlar
 
 Yukarıdaki dokümanın video ile anlatımı için [buradaki](https://www.youtube.com/watch?v=5_pkeUdSNIE&t=4429s) linke göz atabilirsiniz.
+Projenin tüm aşamalarında YouTube kanalımızda bulunan [bu](https://www.youtube.com/playlist?list=PLZj2Q42tw-6915lSwwLBI8zXJHemcFYnj) oynatma listesinden yardım alabilirsiniz.
 Lütfen soruları sormak için Discord sunucumuzu kullanmaktan çekinmeyin. Sorularınızı soru sorma şekillerine uygun olarak sormayı unutmayın 😊
 
 Son olarak, bu süreci sonuna kadar bizimle birlikte ilerlettiğiniz için teşekkürler! Sizinle tanıştığımız için çok mutlu olduk 🥳
